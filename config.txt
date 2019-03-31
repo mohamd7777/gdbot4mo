@@ -1,6 +1,6 @@
 owner=516473846983950336
 prefix=4
-game=3play gd only gd clan by moahmd gamer99 all bots
+game=4play gd only gd clan by moahmd gamer99 all bots
 stayinchannel=true
 songinstatus=false
 token=NTYyMDAwMzUyMzE3MTQ1MTE4.XKEZsA.jt_7oSVG7X7FlGLSpkl2jsSLulo
